@@ -17,19 +17,19 @@ Technology, frameworks and middleware:
 - mongoose
 - morgan
 
-Deploy: https://feedbacks-backendd.herokuapp.com/
+Deploy: https://feedback-backand.vercel.app/
 
 ### Get All feedbacks (GET)
 
-https://feedbacks-backendd.herokuapp.com/api/feedbacks/
+https://feedback-backand.vercel.app/api/feedbacks/
 
 ### Get by Id (GET)
 
-https://feedbacks-backendd.herokuapp.com/api/feedbacks/:id
+https://feedback-backand.vercel.app/api/feedbacks/:id
 
 ### Add feedback (POST, {name, email, feedback - required)
 
-https://feedbacks-backendd.herokuapp.com/api/feedbacks/
+https://feedback-backand.vercel.app/api/feedbacks/
 
 ### Comands:
 
